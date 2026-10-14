@@ -10,8 +10,9 @@
     "price": 0,
     "monthly price": -10000000,
     "auto build": false,
+    "draw ground": true,
     "frames": [
-      {"bmp": "$park00"}
+      {"bmp": "$park01"}
     ]
   }
 ]
