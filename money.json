@@ -9,6 +9,9 @@
     "text": "อาคารปั๊มเงิน สร้างฟรี ให้เงินเดือนละ 10 ล้าน!",
     "price": 0,
     "monthly price": -10000000,
-    "auto build": false
+    "auto build": false,
+    "frames": [
+      {"bmp": "$park00"}
+    ]
   }
 ]
