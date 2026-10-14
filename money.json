@@ -1,0 +1,14 @@
+[
+  {
+    "id": "$money_generator_plugin_01",
+    "type": "park",
+    "author": "okvolza",
+    "width": 1,
+    "height": 1,
+    "title": "Money Generator",
+    "text": "อาคารปั๊มเงิน สร้างฟรี ให้เงินเดือนละ 10 ล้าน!",
+    "price": 0,
+    "monthly price": -10000000,
+    "auto build": false
+  }
+]
